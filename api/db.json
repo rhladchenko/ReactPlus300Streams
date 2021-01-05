@@ -1,16 +1,6 @@
 {
   "streams": [
     {
-      "title": "Test",
-      "description": "TEst",
-      "id": 1
-    },
-    {
-      "title": "Other streams",
-      "description": "Test2",
-      "id": 2
-    },
-    {
       "title": "I Created this stream",
       "description": "This was made by me!",
       "userId": "104003215641025672536",
@@ -27,12 +17,6 @@
       "description": "You should not see this on the form page!!!",
       "userId": "104003215641025672536",
       "id": 5
-    },
-    {
-      "title": "Test4",
-      "description": "TEst4",
-      "userId": "104003215641025672536",
-      "id": 6
     }
   ]
 }
